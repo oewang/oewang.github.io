@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>APM | OeWang的博客👋</title><link>https://oewang.github.io/zh/category/apm/</link><atom:link href="https://oewang.github.io/zh/category/apm/index.xml" rel="self" type="application/rss+xml"/><description>APM</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Wed, 24 May 2023 19:59:33 +0800</lastBuildDate><image><url>https://oewang.github.io/media/icon_hu3ef9e2a665bad05484fc101a4142a71e_178208_512x512_fill_lanczos_center_3.png</url><title>APM</title><link>https://oewang.github.io/zh/category/apm/</link></image><item><title>怎么写一个Java Agent</title><link>https://oewang.github.io/zh/post/java/apm/agent/java-agent/</link><pubDate>Wed, 24 May 2023 19:59:33 +0800</pubDate><guid>https://oewang.github.io/zh/post/java/apm/agent/java-agent/</guid><description>&lt;h1 id="怎么写一个java-agent">怎么写一个Java Agent&lt;/h1>
+&lt;h2 id="包含以下主要内容">包含以下主要内容:&lt;/h2>
+&lt;ul>
+&lt;li>选择一个java字节码操作框架
+&lt;ul>
+&lt;li>可选:
+&lt;ul>
+&lt;li>&lt;a href="https://asm.ow2.io" target="_blank" rel="noopener">ASM&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.javassist.org" target="_blank" rel="noopener">Javassist&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bytebuddy.net" target="_blank" rel="noopener">Byte Buddy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
